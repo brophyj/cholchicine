@@ -1,1 +1,1 @@
-# Code for this work is colchicine.qmd and embedded in _manuscript/colchicine-preview.html
+# Code for this project is found in colchicine.qmd 
