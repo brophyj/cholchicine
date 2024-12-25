@@ -1,1 +1,1 @@
-# cholchicine
+# Code for this work is colchicine.qmd and embedded in _manuscript/colchicine-preview.html

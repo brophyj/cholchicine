@@ -1,0 +1,17 @@
+{
+  "hash": "8ef3f866d00eedc4dab026413e5c55a4",
+  "result": {
+    "engine": "knitr",
+    "markdown": "\n## Readme\n\nThis is the code for my work on analyzing recent and past cokchicine studies for acute coronary syndrome surivivors.    \n\n\n\n::: {.cell}\n\n```{.r .cell-code .hidden}\n#| echo: false\ncurrent_time <- Sys.time() |> \n  format('%d/%m/%Y %H%M')\n```\n:::\n\n\n\nThis file was last rendered at 16/11/2024 1638.\n\n",
+    "supporting": [
+      "readme_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
